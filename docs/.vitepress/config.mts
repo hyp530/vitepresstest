@@ -9,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       {
-        text: '下拉菜单',
+        text: 'Dropdown',
         items: [
           { text: 'Home', link: '/' },
           { text: 'Examples', link: '/markdown-examples' }
