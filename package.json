@@ -17,6 +17,6 @@
     "postcss": "^8.4.35",
     "tailwindcss": "^3.4.1",
     "unplugin-vue-components": "^0.26.0",
-    "vitepress": "^1.0.0-rc.42"
+    "vitepress": "^1.0.0-rc.44"
   }
 }
